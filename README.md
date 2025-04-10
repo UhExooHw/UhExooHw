@@ -1,5 +1,14 @@
-# 👋 Hi there!
+# 👋 Hi, I’m Andrew ReBullet
 
-I'm **Andrew ReBullet**  
-aka `@andrewrebullet` / `@uhexoohw` — a passionate **software engineer** 💻🚀
+**Software Engineer** &nbsp;|&nbsp; **Open Source Enthusiast**  
+Welcome to my digital haven.
 
+---
+
+- 📧 **Email:** [admin@rebullet.ch](mailto:admin@rebullet.ch)  
+- 💻 **GitHub:** [@UhExooHw](https://github.com/UhExooHw)  
+- 🎧 **Spotify:** [Open Playlist](#)
+
+---
+
+Thanks for stopping by!
