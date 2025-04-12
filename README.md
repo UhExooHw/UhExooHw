@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Andrew ReBullet
 
 **Software Engineer** &nbsp;|&nbsp; **Open Source Enthusiast**  
-Welcome to my digital haven.
 
 ---
 
