@@ -5,8 +5,6 @@
 ---
 
 - 📧 **Email:** [admin@rebullet.ch](mailto:admin@rebullet.ch)  
-- 💻 **GitHub:** [@UhExooHw](https://github.com/UhExooHw)  
-- 🎧 **Spotify:** [Open Playlist](#)
 
 ---
 
